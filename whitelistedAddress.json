@@ -1,0 +1,41 @@
+{
+  "contractAddress": "",
+  "tokenAddress": "",
+ "tokenPrivatekey": "",
+ "tokenAccount": "",
+ "contractAccount": "",
+ "contractPrivatekey": "",
+
+  "validators": {
+    "lowBugBounty": {
+      "privateKey": "",
+      "addresses": [""]
+    },
+    "mediumBugBounty": {
+      "privateKey": "",
+      "addresses": [
+        ""
+      ]
+    },
+    "highBugBounty": {
+      "privateKey": "",
+      "addresses": [
+        ""
+      
+      ]
+    },
+    "contractDeployment": {
+      "privateKey": "",
+      "addresses": [
+        ""
+      ]
+    },
+    "dappUsers": {
+      "privateKey": "",
+      "addresses": [
+        ""
+      ],
+      "uptimeStatus": [true, false]
+    }
+  }
+}
